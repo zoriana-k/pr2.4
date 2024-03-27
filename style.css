@@ -1,0 +1,28 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(185, 150, 214);
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #897097;
+    box-shadow: 0 0 10px rgba(33, 32, 32, 0.1);
+}
+
+th, td {
+    border: 1px solid #4b155d;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #8e35af;
+}
